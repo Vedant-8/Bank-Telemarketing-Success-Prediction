@@ -47,14 +47,9 @@ The **LightGBM** classifier was selected as the best-performing model, achieving
    git clone https://github.com/Vedant-8/Bank-Telemarketing-Success-Prediction.git
    ```
 
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Open and run the notebook (`Bank_Telemarketing_Success_Prediction.ipynb`) in Jupyter or a similar environment.
 
-3. Open and run the notebook (`Bank_Telemarketing_Success_Prediction.ipynb`) in Jupyter or a similar environment.
-
-4. Generate predictions on the test set and create a `submission.csv` for evaluation.
+3. Generate predictions on the test set and create a `submission.csv` for evaluation.
 
 ## Libraries Used 📚
 - `pandas`: Data manipulation and analysis.
