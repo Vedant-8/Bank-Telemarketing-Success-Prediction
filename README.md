@@ -1,6 +1,6 @@
 # Bank Telemarketing Success Prediction 📞💰
 
-## Kaggle Competition Link 🔗
+## Kaggle Competition Link 🔗 
 [Predict the Success of Bank Telemarketing](https://www.kaggle.com/competitions/predict-the-success-of-bank-telemarketing)
 
 ## Problem Statement 📝
